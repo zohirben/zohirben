@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=06D6A0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Zohir+Ben+Aissa;AI+Engineer+%7C+Full-Stack+Dev+%7C+Agent+Builder" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=06D6A0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+ZOHIR;Software+Engineer+%7C+AI+%26+Full+Stack+%7C+Student+at+1337" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -171,7 +171,7 @@ A **ray-casting 3D engine** inspired by Wolfenstein 3D — built from scratch in
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=06D6A0&height=80&section=footer"/>
 
-**💬 "Don't send your data to the LLM. Send your rules to the LLM, get code back, and run the code on your data."**
+**💬 "The best way to predict the future is to build it — one intelligent system at a time."**
 
 <em>Let's build something great together.</em>
 
