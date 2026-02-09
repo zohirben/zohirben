@@ -1,7 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06D6A0&height=120&section=header&text=&fontSize=0" width="100%"/>
+
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=06D6A0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+ZOHIR;Software+Engineer+%7C+AI+%26+Full+Stack+%7C+Student+at+1337" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=06D6A0&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=%F0%9F%91%8B+Hey%2C+I'm+ZOHIR;Software+Engineer+%7C+AI+%26+Full+Stack+%7C+Student+at+1337" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -33,8 +35,8 @@
 ## 🧠 About Me
 
 ```text
-🎯  Software Engineer focused on AI, agents & full-stack development
-🏫  1337 / 42 Network alumni — systems programming roots in C & C++
+🎯  Software Engineer focused on AI, agents &amp; full-stack development
+🏫  1337 / 42 Network alumni — systems programming roots in C &amp; C++
 🤖  Obsessed with building agentic systems that actually ship
 🌍  Based in Morocco
 ⚡  Fun fact: I went from writing printf in C to compiling SOPs with LangGraph
@@ -144,12 +146,16 @@ A **ray-casting 3D engine** inspired by Wolfenstein 3D — built from scratch in
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zohirben&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=06D6A0&icon_color=06D6A0&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zohirben&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=06D6A0&icon_color=06D6A0&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohirben&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=06D6A0&text_color=c9d1d9" />
 
 <br/>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=zohirben&theme=dark&hide_border=true&background=0d1117&stroke=06D6A0&ring=06D6A0&fire=06D6A0&currStreakLabel=06D6A0" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=zohirben&theme=dark&hide_border=true&background=0d1117&stroke=06D6A0&ring=06D6A0&fire=06D6A0&currStreakLabel=06D6A0" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=zohirben&theme=react-dark&hide_border=true&bg_color=0d1117&color=06D6A0&line=06D6A0&point=ffffff&area=true&area_color=06D6A0" />
 
 </div>
 
